@@ -8,7 +8,7 @@ A client-server messaging architecture built with C and Python. It manages concu
 * **Distributed Auditing:** Sun RPC integration to log every system operation (registration, connection, messages) to an independent registry server.
 * **Web Service Integration:** Python clients consume a local SOAP web service (built with Zeep and Spyne) to normalize message text before transmission.
 
-## Compilation & Execution
+## Compilation & Execution Instructions
 1. Build the project:
 
    ```bash
